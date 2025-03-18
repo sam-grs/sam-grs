@@ -24,3 +24,5 @@ I am currently working as a Full-Stack Developer at Avanade and pursuing a Bache
 <h2>Thanks, goodbye 👾</h2>
 
 ![c0a2c1bbf109de83b2b474ab2795b847](https://github.com/user-attachments/assets/b58d7a4a-6803-4e04-910e-7a35a01409f2)
+
+![Snake animation](https://raw.githubusercontent.com/sam-grs/sam-grs/output/github-contribution-grid-snake-dark.svg)
