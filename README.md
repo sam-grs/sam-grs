@@ -1,41 +1,26 @@
-<h2> Seja bem vinde 🌠</h2>
+<h2> Welcome 🌠</h2>
 
-<p>Prazer, me chamo Samira Grossi e sou Desenvolvedora FullStack React/Node.js</p>
+<p>Hello, nice to meet you! I'm Samira Grossi and i live in Brazil, a Full-Stack Developer with primary skills in React/TypeScript and Node.js</p>
 
-<div style="display: flex; justify_content: space_between; gap: 65">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="ícone do javascript"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="ícone do typescript"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ícone do react"/>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="ícone do angular"/>
-<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="ícone do material ui"/>
-<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="ícone do styled-components"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="ícone do tailwind"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="ícone do figma"/>
-</div>
+<h2>About me</h2>
+<p>I am a programming enthusiast with over 3 years of experience in Front-End development, including 2 years spent implementing a complete solution for a startup. In addition to this experience, I have worked on short-term, highly flexible projects as a freelancer. I have solid knowledge of React and JavaScript/TypeScript.
 
-<br/>
-
-<div>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="ícone do node.js"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="ícone do java"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="ícone do spring boot"/>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="ícone do mysql"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="ícone do mongo db"/>
-</div>
+I am currently working as a Full-Stack Developer at Avanade and pursuing a Bachelor's degree in Information Systems to expand my knowledge in the field of Software Engineering.
+</p>
 
 
+<h2>Technologies</h2>
 
-<!--
-**sam-grs/sam-grs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+|  | Frontend |  | Backend |
+|---|-------------|---|-------------|
+| <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="logo html"> | **HTML**  | <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="logo node.js" /> | **Node.js** |
+| <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="logo css" /> | **CSS**   | <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="logo nest.js" /> | **Nest.js** |
+| <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="logo javascript" /> | **JavaScript** | <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="logo java" /> | **Java** |
+| <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="logo typescript" /> | **TypeScript** | <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="logo spring boot" /> | **Spring** |
+| <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="logo react" /> | **React** | <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="logo mysql" /> | **MySQL** |
+| <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="logo angular" /> | **Angular** | <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="logo mongo db" /> | **MongoDB** |
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Thanks, goodbye 👾</h2>
+
+![c0a2c1bbf109de83b2b474ab2795b847](https://github.com/user-attachments/assets/b58d7a4a-6803-4e04-910e-7a35a01409f2)
